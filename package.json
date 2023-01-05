@@ -1,0 +1,19 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "This repository will utilize an authentication and api server to implement RBAC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asteele1493/auth-api.git"
+  },
+  "author": "Andra Steele",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asteele1493/auth-api/issues"
+  },
+  "homepage": "https://github.com/asteele1493/auth-api#readme"
+}
